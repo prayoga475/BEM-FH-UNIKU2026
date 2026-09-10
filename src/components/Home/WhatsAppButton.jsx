@@ -2,7 +2,7 @@ import React from "react";
 
 export default function WhatsAppButton() {
   // Ganti dengan nomor WhatsApp kamu (gunakan format internasional tanpa + atau 0 di depan)
-  const phoneNumber = "623862075857"; 
+  const phoneNumber = "6283862075857"; 
   
   // Pesan otomatis saat pengguna membuka link WhatsApp
   const message = "Jangan Malu Untuk Bertanya!";
