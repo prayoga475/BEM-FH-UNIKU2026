@@ -61,7 +61,7 @@ export default function Navbar() {
                   isScrolled ? 'text-slate-600' : 'text-gray-200'
                 }`}
               >
-                Kabinet Progresif 2026
+                Kabinet Reformasi 2026
               </p>
             </div>
           </Link>

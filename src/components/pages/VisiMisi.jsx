@@ -85,7 +85,7 @@ export default function VisiMisi() {
             Profil BEM FH UNIKU 2026
           </h2>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900">
-            Visi & Misi Kabinet Progresif
+            Visi & Misi Kabinet Reformasi
           </h1>
         </div>
 

@@ -20,7 +20,7 @@ export default function Footer() {
                 BEM FH UNIKU
               </h2>
               <p className="text-xs sm:text-sm font-semibold text-[#D97706] tracking-wide uppercase">
-                Kabinet Progresif 2026
+                Kabinet Reformasi 2026
               </p>
             </div>
           </Link>

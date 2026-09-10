@@ -25,9 +25,9 @@ export default function HeroBanner() {
 
         {/* Title / Headline Utama */}
         <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight leading-tight mb-4 text-white">
-          Membangun Bersama Menuju <br />
+          Bangkitkan Integritas <br />
           <span className="text-[#D97706] md:text-[#EAB308] drop-shadow-md">
-            Fakultas Hukum Progresif
+            Wujudakan Perubahan
           </span>
         </h1>
 
